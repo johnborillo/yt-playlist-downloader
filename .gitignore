@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+npm-debug.log
+.env
+
+# macOS
+.DS_Store
+
+# Editor directories and files
+.idea
+.vscode
+*.sublime-workspace
+
+# Optional npm cache & logs
+.npm
+*.log
+
+# Optional eslint cache
+.eslintcache
+
+# Optional Windows files
+Thumbs.db
+Desktop.ini
